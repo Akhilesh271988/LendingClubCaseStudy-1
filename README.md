@@ -24,5 +24,5 @@ Step 4: Bivaraiate/Multivariate Analysis
 Step 5: Results
 
 __Contributors__
-1. AKhilesh Tiwari
+1. Akhilesh Tiwari
 2. Karthikeyan shanmugasundaram
