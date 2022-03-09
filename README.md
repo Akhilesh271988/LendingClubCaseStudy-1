@@ -22,3 +22,7 @@ Step 3: Segemented Univariate Analysis
 Step 4: Bivaraiate/Multivariate Analysis
 
 Step 5: Results
+
+__Contributors_
+1. AKhilesh Tiwari
+2. Karthikeyan shanmugasundaram
